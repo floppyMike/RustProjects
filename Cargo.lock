@@ -5,5 +5,9 @@ name = "e_to_nth_digit"
 version = "0.1.0"
 
 [[package]]
+name = "fibonacci_sequence"
+version = "0.1.0"
+
+[[package]]
 name = "pi_to_nth_digit"
 version = "0.1.0"
