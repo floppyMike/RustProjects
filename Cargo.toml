@@ -1,3 +1,3 @@
 [workspace]
-members = ["pi_to_nth_digit", "e_to_nth_digit", "fibonacci_sequence"]
+members = ["pi_to_nth_digit", "e_to_nth_digit", "fibonacci_sequence", "prime_factorization"]
 
